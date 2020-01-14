@@ -7,9 +7,9 @@ A simple Twilio Chatbot that allows users to search for movies from the OMDB API
 - A PHP development environment
 - Composer
 - ngrok
-- A Twilio Account
-- A WhatsApp Account
-- A Google Account
+- A Twilio Account (Go to Twilio and set up a Twilio WhatsApp sandbox account)
+- A WhatsApp Account (You would need a whatsapp account installed on your Phone)
+- A Google Account (You would need a Google Cloud account with DialogFlow API enabled)
 
 ## Development server
 
