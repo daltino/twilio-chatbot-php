@@ -2,8 +2,6 @@
 
 A simple Twilio Chatbot that allows users to search for movies from the OMDB API built with PHP.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
-
 ## Requirements
 
 - A PHP development environment
