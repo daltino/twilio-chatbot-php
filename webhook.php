@@ -41,7 +41,8 @@ function getMovieInformation($movie)
 *
 * @param integer $movieTitle
 * @param string  $movieDescription
-*
+* @param string  $moviePoster
+* @param boolean $movieFound
 * @return void
 */
 function sendFulfillmentResponse($movieTitle, $movieYear, $moviePoster, $movieFound)
