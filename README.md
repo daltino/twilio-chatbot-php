@@ -13,9 +13,13 @@ A simple Twilio Chatbot that allows users to search for movies from the OMDB API
 
 ## Development server
 
-Run `composer require vlucas/phpdotenv`
-Run `php -S localhost:8080`
-Run `ngrok http 8080`
+1. Run `composer require vlucas/phpdotenv`
+2. Run `php -S localhost:8080`
+3. Run `ngrok http 8080`
+
+## Screenshot
+
+![Twilio Whatsapp Chatbot](https://drive.google.com/file/d/1QooTe2-hj9ty6Vz6ZRVgH2xVuwMaClsJ/view?usp=sharing)
 
 ## Further help
 
