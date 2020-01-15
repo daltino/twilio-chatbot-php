@@ -20,7 +20,3 @@ A simple Twilio Chatbot that allows users to search for movies from the OMDB API
 ## Screenshot
 
 <img src="https://raw.githubusercontent.com/daltino/twilio-chatbot-php/master/assets/twilio-whatsapp-chatbot.jpg" width="250">
-
-## Further help
-
-Reach me on dalton.b.whyte@gmail.com
